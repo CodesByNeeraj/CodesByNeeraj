@@ -1,12 +1,13 @@
 # Hi, I'm Neeraj 👋
 
 ## 💫 About Me:
-I'm a Computer Science Junior @ Singapore University of Technology & Design. <br>I consider myself a generalist with deep interest in product, fullstack and cybersecurity.<br>
+I'm a Computer Science Junior @ Singapore University of Technology & Design. <br>I consider myself a generalist who can work across fullstack, cybersecurity and data science roles.<br>
 
 ## What I work on:
 - 🔭 Building fullstack web applications that solve real problems for real people
 - 🧠 Passionate about product thinking - From user problems to shipped solutions
 - 🛡️ Exploring cybersecurity (Blue Team!) and building security tools for public good
+- 📊 Chasing my Moneyball moment - Extracting insights from data to make smarter decisions
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cr7neeraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-lakshmanan777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajlaks@gmail.com) 
