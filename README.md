@@ -1,6 +1,6 @@
-## Hi, I'm Neeraj 👋
+# Hi, I'm Neeraj 👋
 
-# 💫 About Me:
+## 💫 About Me:
 <br>I'm a Computer Science Junior @ Singapore University of Technology & Design. <br>I consider myself a generalist with deep interest in product, fullstack and cybersecurity.<br>
 
 ## What I work on:
