@@ -1,7 +1,7 @@
 # Hi, I'm Neeraj 👋
 
 ## 💫 About Me:
-I'm a Computer Science Junior @ Singapore University of Technology & Design. <br>I consider myself a generalist who can work across fullstack, cybersecurity and data science roles.<br>
+I'm a Computer Science Junior @ Singapore University of Technology & Design. <br>I consider myself a generalist who can work across fullstack,product, cybersecurity and data science roles.<br>
 
 ## What I work on:
 - 🔭 Building fullstack web applications that solve real problems for real people
