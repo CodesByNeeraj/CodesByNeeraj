@@ -1,7 +1,7 @@
 # Hi, I'm Neeraj 👋
 
 ## 💫 About Me:
-I'm a Computer Science Junior @ Singapore University of Technology & Design. <br>My key area of interest is in the intersection of AI & Cybersecurity.<br>
+I'm a Computer Science Senior @ Singapore University of Technology & Design. <br>My key area of interest is in the intersection of AI & Cybersecurity.<br>
 
 ## What I work on:
 - 🔭 Building fullstack web applications that solve real problems for real people
