@@ -4,7 +4,7 @@
 I'm a Computer Science Senior @ Singapore University of Technology & Design. <br>My key area of interest is in the intersection of AI & Cybersecurity.<br>
 
 ## What I work on:
-- 🔭 Building fullstack web applications that solve real problems for real people
+- 🔭 Building applications that solve real problems for real people & problems I have faced.
 - 🧠 Passionate about product thinking - From user problems to shipped solutions
 - 🛡️ Exploring cybersecurity (Blue Team!) and building security tools
 
