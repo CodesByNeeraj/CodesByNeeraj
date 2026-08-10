@@ -4,9 +4,9 @@
 I'm a Computer Science Senior @ Singapore University of Technology & Design. <br>My key area of interest is in the intersection of AI & Cybersecurity.<br>
 
 ## What I work on:
-- 🔭 Building applications that solve real problems for real people & problems I have faced.
-- 🧠 Passionate about product thinking - From user problems to shipped solutions
-- 🛡️ Exploring cybersecurity (Blue Team!) and building security tools
+- 🔭 Most of what I build starts from a real problem, either something I have faced personally or seen someone else struggle with.
+- 🧠 I take a user-first approach when building. I start with the end user in mind, define the problem clearly, and let that drive every technical decision from there.
+- 🛡️ Agentic workflows, AI Evals & RAG pipelines
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cr7neeraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-lakshmanan777) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajlaks@gmail.com) 
