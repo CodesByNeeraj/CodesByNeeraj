@@ -1,7 +1,7 @@
 # Hi, I'm Neeraj 👋
 
 ## 💫 About Me:
-I'm a Computer Science Senior @ Singapore University of Technology & Design. My specialisations are AI & Cybersecurity. <br>Aspiring Technical Product Manager.<br>
+I'm a Computer Science Senior @ Singapore University of Technology & Design. My specialisations are AI & Cybersecurity.<br> Aspiring Technical Product Manager.<br>
 
 ## What I work on:
 - 🔭 Most of what I build starts from a real problem, either something I have faced personally or seen someone else struggle with.
