@@ -4,7 +4,7 @@
 I'm a Computer Science Senior @ Singapore University of Technology & Design.<br> My specialisations are in AI & Cybersecurity.<br><br> Aspiring Technical Product Manager / Cybersecurity Consultant <br></br>
 
 ## What I work on:
-- 🔭 Most of what I build starts from a real problem, either something I have faced personally or seen someone else struggle with.
+- 🔭 Most of what I build starts from a real problem, either something I have faced personally or seen someone else struggle with. Whereas some are purely for fun and out of curiosity.
 - 🧠 I take a user-first approach when building. I start with the end user in mind, define the problem clearly, and let that drive every technical decision from there.
 - 🛡️ Agentic workflows, AI Evals, RAG pipelines, Responsible AI & Combating AI Risks
 
